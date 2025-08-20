@@ -1,0 +1,1 @@
+// React Context for global state. General app state

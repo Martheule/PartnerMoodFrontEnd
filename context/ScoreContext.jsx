@@ -1,0 +1,1 @@
+// React Context for global state. DISC scores and partner data

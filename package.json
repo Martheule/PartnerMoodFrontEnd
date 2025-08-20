@@ -1,0 +1,26 @@
+{
+  "name": "partnermood",
+  "version": "1.0.0",
+  "description": "This is a DISC app",
+  "main": "app.jsx",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --env-file=.env app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martha + Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "node": "^20.19.4",
+    "pg": "^8.16.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7",
+    "zod": "^4.0.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
