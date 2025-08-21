@@ -1,1 +1,0 @@
-// React Context for global state. User authentication state

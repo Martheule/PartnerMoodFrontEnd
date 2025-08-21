@@ -1,1 +1,0 @@
-// Shows partner compatibility suggestions

@@ -1,1 +1,0 @@
-// DISC score input component

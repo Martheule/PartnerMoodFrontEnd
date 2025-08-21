@@ -1,1 +1,0 @@
-// Partner connection API calls
